@@ -1,3 +1,2 @@
-test.js
-
-This is a js test
+var test = 'This is a test';
+console.log(test);
